@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<section id="page-content">
+  <div class="container">
+    <div class="post-list">
+  {%  for book in site.books %}
+  <div class="post-box">
+    <div class="post-title">
+    <a class="post-title" href="{{book.url | prepend:site.baseurl }}" > {{ book.title }}</a>
+    </div>
+    <div class="post-excerpt">
+      {{ book.content | strip_html | truncatewords:20}}
+    </div>
+    <div class="posted">
+      posted on
+      <span class="posted-on">
+
+        {{ book.date | date: "%A, %B %-d, %Y" }}
+      </span>
+      <span class="in">
+        in
+      </span>
+      <span class="categories-on">
+        {% for category in book.categories%}
+        {{category}} &nbsp;{% if forloop.last %}{% else %},{% endif %}
+        {% endfor %}
+      </span>
+    </div>
+  </div>
+  {% endfor %}
+  </div>
+</section>
