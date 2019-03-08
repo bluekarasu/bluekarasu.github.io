@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-08T20:28:35+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kafka’s Blog</title><subtitle>description</subtitle><entry><title type="html">March</title><link href="http://localhost:4000/diary/2019/03/07/march.html" rel="alternate" type="text/html" title="March" /><published>2019-03-07T19:31:43+09:00</published><updated>2019-03-07T19:31:43+09:00</updated><id>http://localhost:4000/diary/2019/03/07/march</id><content type="html" xml:base="http://localhost:4000/diary/2019/03/07/march.html">&lt;p&gt;Өнөөдрөөс эхлээд өдөр болгон идсэн бас уусан зүйлсээ тэмдэглэхээр шийдлээ.. Сүүлийн хоёр жил тогтмол идхээ больсон бас амттан алкохол их хэрэглэдэг болсон , жин нэмсэн учраас хэрэглэж байгаа хүнсэндээ хяналт тавих бас өөртөө motivation өгөх зорилгоор хүнсний тэмдэглэл хөтлөхөөр шийдлээ ..&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-08T20:37:35+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kafka’s Blog</title><subtitle>description</subtitle><entry><title type="html">March</title><link href="http://localhost:4000/diary/2019/03/07/march.html" rel="alternate" type="text/html" title="March" /><published>2019-03-07T19:31:43+09:00</published><updated>2019-03-07T19:31:43+09:00</updated><id>http://localhost:4000/diary/2019/03/07/march</id><content type="html" xml:base="http://localhost:4000/diary/2019/03/07/march.html">&lt;p&gt;Өнөөдрөөс эхлээд өдөр болгон идсэн бас уусан зүйлсээ тэмдэглэхээр шийдлээ.. Сүүлийн хоёр жил тогтмол идхээ больсон бас амттан алкохол их хэрэглэдэг болсон , жин нэмсэн учраас хэрэглэж байгаа хүнсэндээ хяналт тавих бас өөртөө motivation өгөх зорилгоор хүнсний тэмдэглэл хөтлөхөөр шийдлээ ..&lt;/p&gt;
 &lt;div class=&quot;row&quot;&gt;
   		&lt;div class=&quot;col-sm-6 &quot;&gt;
   			&lt;div class=&quot;section-hold&quot;&gt;
@@ -22,11 +22,11 @@
           &lt;/div&gt;
           &lt;div class=&quot;text-center&quot;&gt;
             &lt;p&gt;Өдрийн хоол&lt;/p&gt;
-            &lt;img src=&quot;http://tarwas.space/assets/images/foods/march/0308_lunch.JPG&quot; alt=&quot;Responsive image&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;img src=&quot;http://tarwas.space/assets/images/foods/march/0308_lunch.jpg&quot; alt=&quot;Responsive image&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
           &lt;/div&gt;
           &lt;div class=&quot;text-center&quot;&gt;
             &lt;p&gt;Оройн хоол&lt;/p&gt;
-            &lt;img src=&quot;http://tarwas.space/assets/images/foods/march/0308_dinner.JPG&quot; alt=&quot;Responsive image&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;img src=&quot;http://tarwas.space/assets/images/foods/march/0308_dinner.jpg&quot; alt=&quot;Responsive image&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
           &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
