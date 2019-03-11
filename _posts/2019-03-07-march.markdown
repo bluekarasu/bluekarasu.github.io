@@ -36,4 +36,38 @@ categories: [diary]
           </div>
         </div>
       </div>
+      <div class="col-sm-6 ">
+        <div class="section-hold">
+          <h2 class="text-success">03/09</h2>
+          <div class="text-center">
+            <p>Өглөөний цай</p>
+            <img src="http://tarwas.space/assets/images/foods/march/0309_break.JPG" alt="" width="100%" height="100%" >
+          </div>
+          <div class="text-center">
+            <p>Өдрийн хоол</p>
+            <img src="http://tarwas.space/assets/images/foods/march/0309_lunch.JPG" alt="Responsive image" width="100%" height="100%" >
+          </div>
+          <div class="text-center">
+            <p>Амттан</p>
+            <img src="http://tarwas.space/assets/images/foods/march/0309_plus.JPG" alt="Responsive image" width="100%" height="100%" >
+          </div>
+          <div class="text-center">
+            <p>Оройн хоол</p>
+            <img src="http://tarwas.space/assets/images/foods/march/0309_dinner.JPG" alt="Responsive image" width="100%" height="100%" >
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 ">
+        <div class="section-hold">
+          <h2 class="text-success">03/10</h2>
+          <div class="text-center">
+            <p>Өглөөний цай</p>
+            <img src="http://tarwas.space/assets/images/foods/march/0310_breakfast.jpg" alt="" width="100%" height="100%" >
+          </div>
+          <div class="text-center">
+            <p>Өдрийн хоол</p>
+            <img src="http://tarwas.space/assets/images/foods/march/0310_lunch.JPG" alt="Responsive image" width="100%" height="100%" >
+          </div>
+        </div>
+      </div>
 </div>
