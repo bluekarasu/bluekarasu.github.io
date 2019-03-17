@@ -10,15 +10,15 @@ permalink: /diary/
   	{% for category in site.categories %}
   		{% if category[0]=='diary' %}
     		{% for post in category[1] %}
-		    </div>
-		    <div class="post-box">
-    		<div class="post-title">
-    			<a class="post-title" href="{{post.url | prepend:site.baseurl }}" > {{ post.title }}</a>
-    		</div>
-    		<div class="post-excerpt">
+		</div>
+		<div class="post-box">
+    	<div class="post-title">
+    		<a class="post-title" href="{{post.url | prepend:site.baseurl }}" > {{ post.title }}</a>
+    	</div>
+    	<div class="post-excerpt">
       			{{ post.content | strip_html | truncatewords:20}}
-    		</div>
-    		<div class="posted">
+    	</div>
+    	<div class="posted">
       		posted on
       		<span class="posted-on">
         	{{ post.date | date: "%A, %B %-d, %Y" }}
@@ -31,9 +31,9 @@ permalink: /diary/
         	{{category}} &nbsp;{% if forloop.last %}{% else %},{% endif %}
         	{% endfor %}
       		</span>
-    		</div>
- 			</div>
+ 		</div>
 	    	{% endfor %}
 		{% endif %}
   	{% endfor %}
   </div>
+  

@@ -1,36 +1,177 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-08T20:37:35+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kafka’s Blog</title><subtitle>description</subtitle><entry><title type="html">March</title><link href="http://localhost:4000/diary/2019/03/07/march.html" rel="alternate" type="text/html" title="March" /><published>2019-03-07T19:31:43+09:00</published><updated>2019-03-07T19:31:43+09:00</updated><id>http://localhost:4000/diary/2019/03/07/march</id><content type="html" xml:base="http://localhost:4000/diary/2019/03/07/march.html">&lt;p&gt;Өнөөдрөөс эхлээд өдөр болгон идсэн бас уусан зүйлсээ тэмдэглэхээр шийдлээ.. Сүүлийн хоёр жил тогтмол идхээ больсон бас амттан алкохол их хэрэглэдэг болсон , жин нэмсэн учраас хэрэглэж байгаа хүнсэндээ хяналт тавих бас өөртөө motivation өгөх зорилгоор хүнсний тэмдэглэл хөтлөхөөр шийдлээ ..&lt;/p&gt;
-&lt;div class=&quot;row&quot;&gt;
-  		&lt;div class=&quot;col-sm-6 &quot;&gt;
-  			&lt;div class=&quot;section-hold&quot;&gt;
-  				&lt;h2 class=&quot;text-success&quot;&gt;03/07&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-17T22:22:47+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kafka’s Blog</title><subtitle>description</subtitle><entry><title type="html">March/2019 travel pictures</title><link href="http://localhost:4000/diary/2019/03/17/march.html" rel="alternate" type="text/html" title="March/2019 travel pictures" /><published>2019-03-17T19:31:43+09:00</published><updated>2019-03-17T19:31:43+09:00</updated><id>http://localhost:4000/diary/2019/03/17/march</id><content type="html" xml:base="http://localhost:4000/diary/2019/03/17/march.html">&lt;div class=&quot;row&quot;&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
   				&lt;div class=&quot;text-center&quot;&gt;
-  					&lt;p&gt;Өглөөний цай&lt;/p&gt;
-  					&lt;img src=&quot;http://tarwas.space/assets/images/foods/march/0307_breakfast.JPG&quot; alt=&quot;&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/40436952683/in/dateposted-public/&quot;&gt;
+              &lt;img src=&quot;https://farm5.staticflickr.com/4899/40436952683_eef3ce8d48.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
   				&lt;/div&gt;
-  				&lt;div class=&quot;text-center&quot;&gt;
-  					&lt;p&gt;Өдрийн хоолнийхаа зургийг авах гэсэн цэнэггүй байлаа энэ оройн хоол&lt;/p&gt;
-  					&lt;img src=&quot;http://tarwas.space/assets/images/foods/march/0307_dinner.JPG&quot; alt=&quot;Responsive image&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
-  				&lt;/div&gt;
-  			&lt;/div&gt;
   		&lt;/div&gt;
-      &lt;div class=&quot;col-sm-6 &quot;&gt;
-        &lt;div class=&quot;section-hold&quot;&gt;
-          &lt;h2 class=&quot;text-success&quot;&gt;03/08&lt;/h2&gt;
-          &lt;div class=&quot;text-center&quot;&gt;
-            &lt;p&gt;Өглөөний цай&lt;/p&gt;
-            &lt;img src=&quot;http://tarwas.space/assets/images/foods/march/0308_breakfast.JPG&quot; alt=&quot;&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;text-center&quot;&gt;
-            &lt;p&gt;Өдрийн хоол&lt;/p&gt;
-            &lt;img src=&quot;http://tarwas.space/assets/images/foods/march/0308_lunch.jpg&quot; alt=&quot;Responsive image&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;text-center&quot;&gt;
-            &lt;p&gt;Оройн хоол&lt;/p&gt;
-            &lt;img src=&quot;http://tarwas.space/assets/images/foods/march/0308_dinner.jpg&quot; alt=&quot;Responsive image&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Өнөөдрөөс эхлээд өдөр болгон идсэн бас уусан зүйлсээ тэмдэглэхээр шийдлээ.. Сүүлийн хоёр жил тогтмол идхээ больсон бас амттан алкохол их хэрэглэдэг болсон , жин нэмсэн учраас хэрэглэж байгаа хүнсэндээ хяналт тавих бас өөртөө motivation өгөх зорилгоор хүнсний тэмдэглэл хөтлөхөөр шийдлээ .. 03/07 Өглөөний цай Өдрийн хоолнийхаа зургийг авах гэсэн цэнэггүй байлаа энэ оройн хоол 03/08 Өглөөний цай Өдрийн хоол Оройн хоол</summary></entry><entry><title type="html">South of the Border west of the sun</title><link href="http://localhost:4000/books/2019/02/18/south_of_the_border.html" rel="alternate" type="text/html" title="South of the Border west of the sun" /><published>2019-02-18T14:41:11+09:00</published><updated>2019-02-18T14:41:11+09:00</updated><id>http://localhost:4000/books/2019/02/18/south_of_the_border</id><content type="html" xml:base="http://localhost:4000/books/2019/02/18/south_of_the_border.html">&lt;p&gt;research paper аа хураалагчихаад 2р сард хамгийн анхний уншсан ном ..Муракагийн бусад номнуудаас яагаад ч юм илүү мэдрэмж төрүүлэв(Kafka on the Shore,Norwegian woods,1984 ийг уншиж байсан). Эсвэл би өмнө уншиж байснийгаа бодуул том болчихсон байгаа болхоор тэр юм болуу..Зохиолийн үйл явцийн хувьд нэг залуугийн амьдрал хайр дурлал ийн талаар гардаг.Бага даа нэг охинд дурлаж байсан бага байсан болхоор тэр мэдрэмжээ хэлхээс илэрхийлхээс айчихсан ..ахлах ангидаа нэг охинтой үерхээд тэгэх явцдаа түүнийгээ үеэлтэйн хуураад л тэр охинийг аймар шархтай үлдээгээл өөрөө ч тэр өөрийгөө үнэлэх үнэлэмж нь буураад л .. Тэгээд хэдэн жил ганцаардмал амьдраад л ,office work д цагаа үрээд л нэг тиймэрхүү..тэгж байгаад сайхан гэр бүлтэй мөнгөтэй болчдийн.. Даан ч анхны амталж чадаагүй хайр нь гарж ирээд л өөртэйгөө зөрчилдөөл нэг иймэрхүү үйл явдалтай …
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/46487453005/in/dateposted-public/&quot;&gt;
+              &lt;img src=&quot;https://farm5.staticflickr.com/4887/46487453005_0f2f7e02ff.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/47402593081/in/dateposted-public/&quot;&gt;
+              &lt;img src=&quot;https://farm5.staticflickr.com/4803/47402593081_198700ec3b.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/46487474865/in/dateposted-public/&quot;&gt;
+              &lt;img src=&quot;https://farm5.staticflickr.com/4814/46487474865_7730a99a10.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/33526671828/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm5.staticflickr.com/4890/33526671828_1712b4f5d3.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/32460685157/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm5.staticflickr.com/4810/32460685157_7cf7b5b903.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/46679267134/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm8.staticflickr.com/7800/46679267134_5bdaed7e1b.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/47402577571/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm5.staticflickr.com/4840/47402577571_ca87dcb2ef.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/46487471045/in/dateposted/&quot;&gt;
+              &lt;img src=&quot;https://farm8.staticflickr.com/7872/46487471045_3636d01dae.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/46487453725/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm8.staticflickr.com/7895/46487453725_a4e9f6200d.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/40436965693/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm8.staticflickr.com/7831/40436965693_a8ffb395a5.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/33526679848/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm8.staticflickr.com/7872/33526679848_7fd07d002e.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/33526702158/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm8.staticflickr.com/7847/33526702158_ca843b3cbc.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/47349821422/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm5.staticflickr.com/4895/47349821422_ca141b66a5.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/32460683257/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm5.staticflickr.com/4891/32460683257_8d49a54901.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/47349808692/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm5.staticflickr.com/4834/47349808692_c767ef87c3.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/47349828142/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm8.staticflickr.com/7872/47349828142_5f10b2553c.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/46679256944/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm5.staticflickr.com/4827/46679256944_5fb9c84652.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+  		&lt;div class=&quot;col-sm-4 &quot;&gt;
+  				&lt;div class=&quot;text-center&quot;&gt;
+  					&lt;a data-flickr-embed=&quot;true&quot; data-footer=&quot;true&quot; href=&quot;https://www.flickr.com/photos/151258190@N04/46679258644/in/datetaken-public/&quot;&gt;
+              &lt;img src=&quot;https://farm8.staticflickr.com/7925/46679258644_1c12bee6c4.jpg&quot; width=&quot;100%&quot; height=&quot;100%&quot; /&gt;
+            &lt;/a&gt;
+            &lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/script&gt;
+  				&lt;/div&gt;
+  		&lt;/div&gt;
+  
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">South of the Border west of the sun</title><link href="http://localhost:4000/books/2019/02/18/south_of_the_border.html" rel="alternate" type="text/html" title="South of the Border west of the sun" /><published>2019-02-18T14:41:11+09:00</published><updated>2019-02-18T14:41:11+09:00</updated><id>http://localhost:4000/books/2019/02/18/south_of_the_border</id><content type="html" xml:base="http://localhost:4000/books/2019/02/18/south_of_the_border.html">&lt;p&gt;research paper аа хураалагчихаад 2р сард хамгийн анхний уншсан ном ..Муракагийн бусад номнуудаас яагаад ч юм илүү мэдрэмж төрүүлэв(Kafka on the Shore,Norwegian woods,1984 ийг уншиж байсан). Эсвэл би өмнө уншиж байснийгаа бодуул том болчихсон байгаа болхоор тэр юм болуу..Зохиолийн үйл явцийн хувьд нэг залуугийн амьдрал хайр дурлал ийн талаар гардаг.Бага даа нэг охинд дурлаж байсан бага байсан болхоор тэр мэдрэмжээ хэлхээс илэрхийлхээс айчихсан ..ахлах ангидаа нэг охинтой үерхээд тэгэх явцдаа түүнийгээ үеэлтэйн хуураад л тэр охинийг аймар шархтай үлдээгээл өөрөө ч тэр өөрийгөө үнэлэх үнэлэмж нь буураад л .. Тэгээд хэдэн жил ганцаардмал амьдраад л ,office work д цагаа үрээд л нэг тиймэрхүү..тэгж байгаад сайхан гэр бүлтэй мөнгөтэй болчдийн.. Даан ч анхны амталж чадаагүй хайр нь гарж ирээд л өөртэйгөө зөрчилдөөл нэг иймэрхүү үйл явдалтай …
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;h3&gt;Миний авсан мэдрэмж : &lt;/h3&gt;
@@ -75,4 +216,18 @@ From the underground hallways of power to the skyscrapers of Tokyo to the toweri
 
 &lt;p&gt;tulhuur n bailaach algorithm n baihgu bolhoor decrypt(tailah) hiij chadkusht. uuruur helbel ter algorithm iig olj awhin tuld ter algorithmaar n ter key ee ashiglad decrypt hiih shaardlagtai whahha . butehguishte hha bi utsa asahin tuld code oo hiih heregte code maani utas ashar garj irne  gejamm shig xxa&lt;/p&gt;
 
-&lt;p&gt;яаг анзаарсан нь энэ хэд л байлаа.өшөө зөндөө байгаа биз.Дээрээс нь би зүгээр л сонирхогч болхоор бүүр сайн мэдэхгүй байна .&lt;/p&gt;</content><author><name></name></author><summary type="html">Dan Brown 1998 онд бичсэн ном байна . (2019.02.19 22:00 аас 2019.02.20 4:00 хооронд уншив 500хуудастай ч гэсэн үсэг нь жижигхэн биш болхоор гайгүй явчлаа эхний 200г хуудсийг л уншлаа tsaashaa unshih husel alga taalagdsangu) From Goodreads: When the NSA’s invincible code-breaking machine encounters a mysterious code it cannot break, the agency calls its head cryptographer, Susan Fletcher, a brilliant and beautiful mathematician. What she uncovers sends shock waves through the corridors of power. The NSA is being held hostage… not by guns or bombs, but by a code so ingeniously complex that if released it would cripple U.S. intelligence. Caught in an accelerating tempest of secrecy and lies, Susan Fletcher battles to save the agency she believes in. Betrayed on all sides, she finds herself fighting not only for her country but for her life, and in the end, for the life of the man she loves. From the underground hallways of power to the skyscrapers of Tokyo to the towering cathedrals of Spain, a desperate race unfolds. It is a battle for survival — a crucial bid to destroy a creation of inconceivable genius… an impregnable code-writing formula that threatens to obliterate the post-cold war balance of power. Forever.</summary></entry><entry><title type="html">first diary</title><link href="http://localhost:4000/diary/2018/02/19/diary0.html" rel="alternate" type="text/html" title="first diary" /><published>2018-02-19T01:31:43+09:00</published><updated>2018-02-19T01:31:43+09:00</updated><id>http://localhost:4000/diary/2018/02/19/diary0</id><content type="html" xml:base="http://localhost:4000/diary/2018/02/19/diary0.html">&lt;p&gt;Хичээл амарсан болхоор чөлөөтэй болоод зүгээр байж байхаар гэж бодоод блог нээчлээ .Бүүр дээр авцан байсан Domain name байдгийг санаад …Бичмээр санагдсан үедээ юу ч хамаагүй бичиж байнаа&lt;/p&gt;</content><author><name></name></author><summary type="html">Хичээл амарсан болхоор чөлөөтэй болоод зүгээр байж байхаар гэж бодоод блог нээчлээ .Бүүр дээр авцан байсан Domain name байдгийг санаад …Бичмээр санагдсан үедээ юу ч хамаагүй бичиж байнаа</summary></entry></feed>
+&lt;p&gt;яаг анзаарсан нь энэ хэд л байлаа.өшөө зөндөө байгаа биз.Дээрээс нь би зүгээр л сонирхогч болхоор бүүр сайн мэдэхгүй байна .&lt;/p&gt;</content><author><name></name></author><summary type="html">Dan Brown 1998 онд бичсэн ном байна . (2019.02.19 22:00 аас 2019.02.20 4:00 хооронд уншив 500хуудастай ч гэсэн үсэг нь жижигхэн биш болхоор гайгүй явчлаа эхний 200г хуудсийг л уншлаа tsaashaa unshih husel alga taalagdsangu) From Goodreads: When the NSA’s invincible code-breaking machine encounters a mysterious code it cannot break, the agency calls its head cryptographer, Susan Fletcher, a brilliant and beautiful mathematician. What she uncovers sends shock waves through the corridors of power. The NSA is being held hostage… not by guns or bombs, but by a code so ingeniously complex that if released it would cripple U.S. intelligence. Caught in an accelerating tempest of secrecy and lies, Susan Fletcher battles to save the agency she believes in. Betrayed on all sides, she finds herself fighting not only for her country but for her life, and in the end, for the life of the man she loves. From the underground hallways of power to the skyscrapers of Tokyo to the towering cathedrals of Spain, a desperate race unfolds. It is a battle for survival — a crucial bid to destroy a creation of inconceivable genius… an impregnable code-writing formula that threatens to obliterate the post-cold war balance of power. Forever.</summary></entry><entry><title type="html">Зүгээр л</title><link href="http://localhost:4000/diary/2018/03/12/diary1.html" rel="alternate" type="text/html" title="Зүгээр л" /><published>2018-03-12T05:31:43+09:00</published><updated>2018-03-12T05:31:43+09:00</updated><id>http://localhost:4000/diary/2018/03/12/diary1</id><content type="html" xml:base="http://localhost:4000/diary/2018/03/12/diary1.html">&lt;p&gt;Өнөөдөр өглөө эрт гараад манилла луу нисэв.Өчигдөр бас уржигдар гэнэ гэнэ эвгүй зөн татаад байсан болхоор онгоцонд суухааса өмнө суухуу болихуу гэж 5сэк бодоод заза хамаа алаг гээд суусан буухийн алдад анх удаа онгоцонд тэгэж савлаж үзлээ. Нилээн аймар савласан нэг хэсэг үйлчлэгч нар нь үсрээд байгаам шиг л мэдрэгдсэн дотороо ингээд үхцэн ч яхав гэж хальт бодогдсоноо хэвтэж байвал эсвэл энгэвэл надад damage бага учрандаа нтр гээд илий балай юм бодож байгаал буув..&lt;/p&gt;
+
+&lt;p&gt;Яджийтал Seam ийн захиалсан буудал шаал өөр арал дээр шаал өөр газар сая өөр газар байсан гэдгээ мэдсэн гэж хэлэв.Би уул нь хэд хоногийн өмнө буудлых нь зурагнаас хайж байгаад бишийн бишүү гэж хэлсэн гүэ битий санаа зов гэсэн ххахахаха за тэр ч яхав 6гэж буучаад Seam г 2 хүртэл хүлээх хэрэг гарж байх шиг байна ирхээр нь л буудал нтрээ ярихаас .. Яаджийтал ядраад байхий лоол ойрд сайн унтаж чадахгүй аймар хогийн байгаа цаг хангалттай байвч 2,3 н цаг унтчаал сэрээд байгаа болхоор амарсан болохгүй байна..Уул нь anxiety тэй байсан ч ингэж зүв зүгээр байжийж ойрд санаагаа хэт зовоогоод байгаагаа ойлгохгүй байна .  Явж байгаал үхчих ч юмшиг , сураа жинхнээсээ төгсөөгүй ч юмшиг , ажилдаа ороод юу ч хийж чадахгүй ч юмшиг , нэг тийм байж болох хамгийн worst case үүд л толгойд орж ирээд байхий … Тэрнээсээ болоод сайн ч унтаж чадахгүй,зүгээр амар ч чадахгүй байнга бодож ажиллаж байх ёстой юм шиг нэг тиймэрхүү л байна……&lt;/p&gt;
+
+&lt;p&gt;Онгоцны буудал дээр хийх юмгүй бичээд л бодоод л бас ойрхон хүн байхгүй шөнө сууж байгаа гэдэг утгаараа яагаад ч юм надад бясалгал болох юм шиг санагдаад сууж байна .. Түрүүн нэг эгч нүүр харснаа эмзэг арьстайн байн энэ зохин нтр гээд шууд дэлгүүрлүүгээ дагуулаад оров гарж чадахгүй байж байж нээх үнтэй сэт аваад гарав гол нь бас арисандаа саяхнаас санаа зовоод байсан болхоор тайлбарлаж өгсөн сонгож өгсөн бараа нь бас нилээн дажгүй байсан болхоор бас авбал нэг эмчилгээрхүү юм үнэгүй гээд яриад байсан болхоор авлаалдаа .. Бас хэт нэрэлхүү гэдгээ мэдрэв зүгээр л алхаж байгаад тархидуулчиж байгаамдаа… За тэр ч яахав ойрд ингэж өөртэйгаа яриад тулж ажилалгүй бас удчихаж одоо бичиж байхдаа л анзаарав.Хэт их эморох сэтгэлээр унах үедээ л тэмдэглэл хөтлөдөг юмлдаа , өнгөрсөн жилийн 8н сараас хойш бичээгүй гэж бодхоор бас би ч гайгүй байгаад байгаан бишүү нтр…&lt;/p&gt;
+
+&lt;p&gt;Өнгөрсөн жилийн тэр сарын дүгнэлтийг одоо бичвэл би хэт эмзэг байсан хэлсэн муухай үг болгон нь зүрхлүү тусж байсан одоо ч хааяа бодхоор ёонк гээл орж ирдэг юм ,, тэгээд одоо бодоод байсан би ч гэсэн муухай үгнүүд хэлсэн тэр хүнийг угаасаа тийм үг сонсох ёстой гэж угаасаа тийм гэж бодож байсан үе болхоор аль болох үгээр ч болов өвтгөхийг хүссэн .. , одоо ч гэсэн тийм л хүн гэж боддог л доо тэхдээ цаг хугацаа өнгөрөөд би зүгээр болоод ирэнгүйт бас заавал ч тэгэж хатуу үгнүүд хэлэх хэрэггүй байждээ гэж бодогддог болсон бас угаасаа сэтгэлгүй байсийм чинь тэгж чөдөрлүүлхийг хүсээгүй л байх ,  ганцаарддаг байсан байхдаа , надад өгж чадахгүй байгаадаа бас өөртөө уур нь хүрдэг байсан байхдаа , өгж чадах зүйлээ л надад өгсөн байх гэж боддог болсон хэдий надад тэр нь хангалтгүй байсан ч .. Thank you for being in my life :) .. Амьдралаас сурах ёстой зүйлүүдийн нэг байсан боловуудаа чи …&lt;/p&gt;
+
+&lt;p&gt;Миний амьдралд бас нэг хүн гарж ирсэн дэндүү сэтгэлээрээ дэндүү тайван , намайг хэзээч орхихгүй гэсэн мэдрэмж надад өгдөг тэр хүн … Юу болохийг мэдэхгүй байгаа ч би одоо тайван аз жаргалтай л баймаар байна .. Түүний хажууд л байвал бүх юм бүтэх юмшиг&lt;/p&gt;</content><author><name></name></author><summary type="html">Өнөөдөр өглөө эрт гараад манилла луу нисэв.Өчигдөр бас уржигдар гэнэ гэнэ эвгүй зөн татаад байсан болхоор онгоцонд суухааса өмнө суухуу болихуу гэж 5сэк бодоод заза хамаа алаг гээд суусан буухийн алдад анх удаа онгоцонд тэгэж савлаж үзлээ. Нилээн аймар савласан нэг хэсэг үйлчлэгч нар нь үсрээд байгаам шиг л мэдрэгдсэн дотороо ингээд үхцэн ч яхав гэж хальт бодогдсоноо хэвтэж байвал эсвэл энгэвэл надад damage бага учрандаа нтр гээд илий балай юм бодож байгаал буув..</summary></entry><entry><title type="html">Programming good books</title><link href="http://localhost:4000/playground/2018/03/12/playground1.html" rel="alternate" type="text/html" title="Programming good books" /><published>2018-03-12T05:31:43+09:00</published><updated>2018-03-12T05:31:43+09:00</updated><id>http://localhost:4000/playground/2018/03/12/playground1</id><content type="html" xml:base="http://localhost:4000/playground/2018/03/12/playground1.html">&lt;p&gt;For python:&lt;/p&gt;
+
+&lt;p&gt;For Visualization:Beautiful visualaztion&lt;/p&gt;
+
+&lt;p&gt;For coding:Readable code&lt;/p&gt;
+
+&lt;p&gt;For hacking:Hacking 美しき策.. -&amp;gt;suulin hanzin unshij chadsangu hahahah&lt;/p&gt;</content><author><name></name></author><summary type="html">For python:</summary></entry><entry><title type="html">first diary</title><link href="http://localhost:4000/diary/2018/02/19/diary0.html" rel="alternate" type="text/html" title="first diary" /><published>2018-02-19T01:31:43+09:00</published><updated>2018-02-19T01:31:43+09:00</updated><id>http://localhost:4000/diary/2018/02/19/diary0</id><content type="html" xml:base="http://localhost:4000/diary/2018/02/19/diary0.html">&lt;p&gt;Хичээл амарсан болхоор чөлөөтэй болоод зүгээр байж байхаар гэж бодоод блог нээчлээ .Бүүр дээр авцан байсан Domain name байдгийг санаад …Бичмээр санагдсан үедээ юу ч хамаагүй бичиж байнаа&lt;/p&gt;</content><author><name></name></author><summary type="html">Хичээл амарсан болхоор чөлөөтэй болоод зүгээр байж байхаар гэж бодоод блог нээчлээ .Бүүр дээр авцан байсан Domain name байдгийг санаад …Бичмээр санагдсан үедээ юу ч хамаагүй бичиж байнаа</summary></entry></feed>

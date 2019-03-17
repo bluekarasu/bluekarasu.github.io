@@ -1,73 +1,63 @@
 ---
 layout: post
-title:  "March"
-date:   2019-03-07 16:01:43 +0530
+title:  "March/2019 travel pictures"
+date:   2019-03-17 16:01:43 +0530
 categories: [diary]
+images:
+
+  - image_url : https://www.flickr.com/photos/151258190@N04/40436952683/in/dateposted-public/
+    image_path : https://farm5.staticflickr.com/4899/40436952683_eef3ce8d48.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/46487453005/in/dateposted-public/
+    image_path : https://farm5.staticflickr.com/4887/46487453005_0f2f7e02ff.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/47402593081/in/dateposted-public/
+    image_path : https://farm5.staticflickr.com/4803/47402593081_198700ec3b.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/46487474865/in/dateposted-public/
+    image_path : https://farm5.staticflickr.com/4814/46487474865_7730a99a10.jpg
+
+  - image_url : https://www.flickr.com/photos/151258190@N04/33526671828/in/datetaken-public/
+    image_path : https://farm5.staticflickr.com/4890/33526671828_1712b4f5d3.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/32460685157/in/datetaken-public/
+    image_path : https://farm5.staticflickr.com/4810/32460685157_7cf7b5b903.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/46679267134/in/datetaken-public/
+    image_path : https://farm8.staticflickr.com/7800/46679267134_5bdaed7e1b.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/47402577571/in/datetaken-public/
+    image_path : https://farm5.staticflickr.com/4840/47402577571_ca87dcb2ef.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/46487471045/in/dateposted/
+    image_path : https://farm8.staticflickr.com/7872/46487471045_3636d01dae.jpg
+
+  - image_url : https://www.flickr.com/photos/151258190@N04/46487453725/in/datetaken-public/
+    image_path : https://farm8.staticflickr.com/7895/46487453725_a4e9f6200d.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/40436965693/in/datetaken-public/
+    image_path : https://farm8.staticflickr.com/7831/40436965693_a8ffb395a5.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/33526679848/in/datetaken-public/
+    image_path : https://farm8.staticflickr.com/7872/33526679848_7fd07d002e.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/33526702158/in/datetaken-public/
+    image_path : https://farm8.staticflickr.com/7847/33526702158_ca843b3cbc.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/47349821422/in/datetaken-public/
+    image_path : https://farm5.staticflickr.com/4895/47349821422_ca141b66a5.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/32460683257/in/datetaken-public/
+    image_path : https://farm5.staticflickr.com/4891/32460683257_8d49a54901.jpg
+
+  - image_url : https://www.flickr.com/photos/151258190@N04/47349808692/in/datetaken-public/
+    image_path : https://farm5.staticflickr.com/4834/47349808692_c767ef87c3.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/47349828142/in/datetaken-public/
+    image_path : https://farm8.staticflickr.com/7872/47349828142_5f10b2553c.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/46679256944/in/datetaken-public/
+    image_path : https://farm5.staticflickr.com/4827/46679256944_5fb9c84652.jpg
+  - image_url : https://www.flickr.com/photos/151258190@N04/46679258644/in/datetaken-public/
+    image_path : https://farm8.staticflickr.com/7925/46679258644_1c12bee6c4.jpg
+  
+
 ---
-Өнөөдрөөс эхлээд өдөр болгон идсэн бас уусан зүйлсээ тэмдэглэхээр шийдлээ.. Сүүлийн хоёр жил тогтмол идхээ больсон бас амттан алкохол их хэрэглэдэг болсон , жин нэмсэн учраас хэрэглэж байгаа хүнсэндээ хяналт тавих бас өөртөө motivation өгөх зорилгоор хүнсний тэмдэглэл хөтлөхөөр шийдлээ ..
 <div class="row">
-  		<div class="col-sm-6 ">
-  			<div class="section-hold">
-  				<h2 class="text-success">03/07</h2>
+  {% for image in page.images %}
+  		<div class="col-sm-4 ">
   				<div class="text-center">
-  					<p>Өглөөний цай</p>
-  					<img src="http://tarwas.space/assets/images/foods/march/0307_breakfast.JPG" alt="" width="100%" height="100%" >
+  					<a data-flickr-embed="true" data-footer="true"  href="{{ image.image_url }}" >
+              <img src="{{ image.image_path }}"  width="100%" height="100%"/>
+            </a>
+            <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8" width="100%" height="100%"></script>
   				</div>
-  				<div class="text-center">
-  					<p>Өдрийн хоолнийхаа зургийг авах гэсэн цэнэггүй байлаа энэ оройн хоол</p>
-  					<img src="http://tarwas.space/assets/images/foods/march/0307_dinner.JPG" alt="Responsive image" width="100%" height="100%" >
-  				</div>
-  			</div>
   		</div>
-      <div class="col-sm-6 ">
-        <div class="section-hold">
-          <h2 class="text-success">03/08</h2>
-          <div class="text-center">
-            <p>Өглөөний цай</p>
-            <img src="http://tarwas.space/assets/images/foods/march/0308_breakfast.JPG" alt="" width="100%" height="100%" >
-          </div>
-          <div class="text-center">
-            <p>Өдрийн хоол</p>
-            <img src="http://tarwas.space/assets/images/foods/march/0308_lunch.jpg" alt="Responsive image" width="100%" height="100%" >
-          </div>
-          <div class="text-center">
-            <p>Оройн хоол</p>
-            <img src="http://tarwas.space/assets/images/foods/march/0308_dinner.jpg" alt="Responsive image" width="100%" height="100%" >
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-6 ">
-        <div class="section-hold">
-          <h2 class="text-success">03/09</h2>
-          <div class="text-center">
-            <p>Өглөөний цай</p>
-            <img src="http://tarwas.space/assets/images/foods/march/0309_break.JPG" alt="" width="100%" height="100%" >
-          </div>
-          <div class="text-center">
-            <p>Өдрийн хоол</p>
-            <img src="http://tarwas.space/assets/images/foods/march/0309_lunch.JPG" alt="Responsive image" width="100%" height="100%" >
-          </div>
-          <div class="text-center">
-            <p>Амттан</p>
-            <img src="http://tarwas.space/assets/images/foods/march/0309_plus.JPG" alt="Responsive image" width="100%" height="100%" >
-          </div>
-          <div class="text-center">
-            <p>Оройн хоол</p>
-            <img src="http://tarwas.space/assets/images/foods/march/0309_dinner.JPG" alt="Responsive image" width="100%" height="100%" >
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-6 ">
-        <div class="section-hold">
-          <h2 class="text-success">03/10</h2>
-          <div class="text-center">
-            <p>Өглөөний цай</p>
-            <img src="http://tarwas.space/assets/images/foods/march/0310_breakfast.jpg" alt="" width="100%" height="100%" >
-          </div>
-          <div class="text-center">
-            <p>Өдрийн хоол</p>
-            <img src="http://tarwas.space/assets/images/foods/march/0310_lunch.JPG" alt="Responsive image" width="100%" height="100%" >
-          </div>
-        </div>
-      </div>
+  {% endfor %}
 </div>
