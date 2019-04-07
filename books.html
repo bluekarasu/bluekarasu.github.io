@@ -10,8 +10,8 @@ permalink: /books/
   	{% for category in site.categories %}
   		{% if category[0]=='books' %}
     		{% for post in category[1] %}
-		    </div>
-		    <div class="post-box">
+    </div>
+		<div class="post-box">
     		<div class="post-title">
     			<a class="post-title" href="{{post.url | prepend:site.baseurl }}" > {{ post.title }}</a>
     		</div>
@@ -32,8 +32,9 @@ permalink: /books/
         	{% endfor %}
       		</span>
     		</div>
- 			</div>
 	    	{% endfor %}
 		{% endif %}
   	{% endfor %}
   </div>
+
+  
